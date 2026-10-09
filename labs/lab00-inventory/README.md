@@ -6,7 +6,7 @@ Machine: HP Victus 16-e0XXX (Laptop) <br/>
 Date: 08.10.2026
 
 ## What I did
-I used Windows PowerShell to collect information about my personal laptop, including the operating system, hardware specifications, processor, memory, and storage. Here are the commands I used:
+I used Windows PowerShell to collect information about my personal laptop, including the operating system, hardware specifications, processor, memory, and storage. Here are the commands I used: <br/>
 Overview - Get-ComputerInfo <br/>
 Memory - systeminfo <br/>
 Disks - Get-Volume <br/>
