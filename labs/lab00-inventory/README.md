@@ -14,12 +14,12 @@ OS - systeminfo <br/>
 Virtualisation - systeminfo (on the bottom of the output) Hyper-V Requirements
 
 
-Get-ComputerInfo
+Get-ComputerInfo<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/main/labs/lab00-inventory/evidence/OS.png) <br/>
-systeminfo
+systeminfo<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/OS%20CPU%20MEMORY.png) <br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/HYPER-V.png) <br/>
-Get-Volume
+Get-Volume<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/DISKS.png) <br/>
 
 
