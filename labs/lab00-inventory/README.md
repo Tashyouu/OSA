@@ -33,7 +33,7 @@ During the inventory, some command output was not immediately obvious to interpr
 I identified the value as the total physical memory and understood that it needed to be converted into gigabytes for easier reading.
 
 ## Evidence
-- [evidence/DISKS.png](evidence/DISKS.png) — Disks info.
-- [evidence/HYPER-V.png](evidence/HYPER-V.png) — Hyper-V (Virtualisation) info.
-- [evidence/OS_CPU_MEMORY.png](evidence/OS%20CPU%20MEMORY.png) — OS, CPU and RAM memory info.
-- [evidence/OS.png](evidence/OS.png) — OS info that is shown by using the overview command.
+- [evidence/DISKS.png](evidence/DISKS.png) - Disks info.
+- [evidence/HYPER-V.png](evidence/HYPER-V.png) - Hyper-V (Virtualisation) info.
+- [evidence/OS_CPU_MEMORY.png](evidence/OS%20CPU%20MEMORY.png) - OS, CPU and RAM memory info.
+- [evidence/OS.png](evidence/OS.png) - OS info that is shown by using the overview command.
