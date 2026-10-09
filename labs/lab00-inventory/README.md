@@ -34,7 +34,7 @@ I identified the value as the total physical memory and understood that it neede
 
 ## Evidence
 
-- [evidence/DISKS.png/]() — Disks info.
+- [evidence/](labs/lab00-inventory/evidence/DISKS.png) — Disks info.
 - [evidence/](HYPER-V.png/) — Hyper-V (Virtualisation) info.
 - [evidence/](OS_CPU_MEMORY.png/) — OS, CPU and RAM memory info.
 - [evidence/](OS.png/) — OS info that is shown by using 'overview' command.
