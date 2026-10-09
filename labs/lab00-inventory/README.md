@@ -11,7 +11,7 @@ Overview - ```Get-ComputerInfo``` <br/>
 Memory - ```systeminfo``` <br/>
 Disks - ```Get-Volume``` <br/>
 OS - ```systeminfo``` <br/>
-Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the output)
+Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the output) <br/>
 
 
 ```Get-ComputerInfo```<br/>
