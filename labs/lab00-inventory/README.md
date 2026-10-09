@@ -13,7 +13,7 @@ Disks - ```Get-Volume``` <br/>
 OS - ```systeminfo``` <br/>
 Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the output) <br/>
 
-
+![OS information](evidence/os.png)
 ```Get-ComputerInfo```<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/08721decc637e2c289d96d18398b29c35b1e96e7/labs/lab00-inventory/evidence/os.png) <br/>
 ```systeminfo```<br/>
