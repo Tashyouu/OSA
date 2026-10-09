@@ -13,13 +13,13 @@ Disks - ```Get-Volume``` <br/>
 OS - ```systeminfo``` <br/>
 Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the output) <br/>
 
-```Get-ComputerInfo``` <br/> ![OS information](evidence/os.png) <br/>
-
-```systeminfo```![OS-CPU-RAM](evidence/os-cpu-memory.png) <br/> 
+```Get-ComputerInfo``` <br/> 
+![OS information](evidence/os.png) <br/>
+```systeminfo```<br/> 
+![OS-CPU-RAM](evidence/os-cpu-memory.png) <br/> 
 ![hyper-v](evidence/os.png) <br/>
-
-```Get-Volume```<br/> ![disks](evidence/disks.png) <br/>
-
+```Get-Volume```<br/> 
+![disks](evidence/disks.png) <br/>
 
 ## Result
 Successfully collected basic system information using Windows PowerShell. The inventory included the operating system, processor, installed memory, storage devices, and computer model.
