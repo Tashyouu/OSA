@@ -29,8 +29,7 @@ Successfully collected basic system information using Windows PowerShell. The in
 The commands demonstrated how to query Windows system information using built-in PowerShell commands without installing additional software.
 
 ## What did not work the first time
-During the inventory, some command output was not immediately obvious to interpret. For example, the installed memory (RAM) was displayed in megabytes rather than gigabytes.
-I identified the value as the total physical memory and understood that it needed to be converted into gigabytes for easier reading.
+The RAM value was displayed in megabytes, which was less convenient to read. I interpreted the value and converted it to gigabytes for easier understanding.
 
 ## Evidence
 - [evidence/disks.png](evidence/disks.png) - Disks info.
