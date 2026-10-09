@@ -1,10 +1,10 @@
 # Operating System Architecture — build log
 
-**Student: Tamerlan Shakenov**
-**Group: 6**
-**Host machine:  HP Victus 16-e0XXX (Windows 11, x64)**
-**Hypervisor: Oracle VirtualBox (planned)**
-**Guest operating systems: Ubuntu Linux (planned)**
+**Student: Tamerlan Shakenov** <br/>
+**Group: 6** <br/>
+**Host machine:  HP Victus 16-e0XXX (Windows 11, x64)** <br/>
+**Hypervisor: Oracle VirtualBox (planned)** <br/>
+**Guest operating systems: Ubuntu Linux (planned)** <br/>
 
 ## Labs
 
