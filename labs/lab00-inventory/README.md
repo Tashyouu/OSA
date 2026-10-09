@@ -17,7 +17,7 @@ Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the out
 ![OS information](evidence/os.png) <br/>
 ```systeminfo```<br/> 
 ![OS-CPU-RAM](evidence/os-cpu-memory.png) <br/> 
-![hyper-v](evidence/os.png) <br/>
+![hyper-v](evidence/hyper-v.png) <br/>
 ```Get-Volume```<br/> 
 ![disks](evidence/disks.png) <br/>
 
