@@ -13,14 +13,12 @@ Disks - ```Get-Volume``` <br/>
 OS - ```systeminfo``` <br/>
 Virtualisation - ```systeminfo``` Hyper-V Requirements (on the bottom of the output) <br/>
 
-```Get-ComputerInfo```![OS information](evidence/os.png)
-<br/>
-![image alt](https://github.com/Tashyouu/OSA/blob/08721decc637e2c289d96d18398b29c35b1e96e7/labs/lab00-inventory/evidence/os.png) <br/>
-```systeminfo```<br/>
-![image alt](https://github.com/Tashyouu/OSA/blob/17473b0268aa7579471046ac487c59022b10f699/labs/lab00-inventory/evidence/os-cpu-memory.png) <br/>
-![image alt](https://github.com/Tashyouu/OSA/blob/b11fcae6b90bea13584dbca677a9584827f4dc97/labs/lab00-inventory/evidence/hyper-v.png) <br/>
-```Get-Volume```<br/>
-![image alt](https://github.com/Tashyouu/OSA/blob/17473b0268aa7579471046ac487c59022b10f699/labs/lab00-inventory/evidence/disks.png) <br/>
+```Get-ComputerInfo``` <br/> ![OS information](evidence/os.png) <br/>
+
+```systeminfo```![OS-CPU-RAM](evidence/os-cpu-memory.png) <br/> 
+![hyper-v](evidence/os.png) <br/>
+
+```Get-Volume```<br/> ![disks](evidence/disks.png) <br/>
 
 
 ## Result
