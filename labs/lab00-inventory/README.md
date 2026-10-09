@@ -13,7 +13,7 @@ Disks - Get-Volume <br/>
 OS - systeminfo <br/>
 Virtualisation - systeminfo (on the bottom of the output) Hyper-V Requirements
 
-```
+
 Get-ComputerInfo
 ![image alt](https://github.com/Tashyouu/OSA/blob/main/labs/lab00-inventory/evidence/OS.png) <br/>
 systeminfo
@@ -21,7 +21,7 @@ systeminfo
 ![image alt](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/HYPER-V.png) <br/>
 Get-Volume
 ![image alt](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/DISKS.png) <br/>
-```
+
 
 ## Result
 Successfully collected basic system information using Windows PowerShell. The inventory included the operating system, processor, installed memory, storage devices, and computer model.
@@ -33,8 +33,7 @@ During the inventory, some command output was not immediately obvious to interpr
 I identified the value as the total physical memory and understood that it needed to be converted into gigabytes for easier reading.
 
 ## Evidence
-
-- [evidence/DISKS.png](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/DISKS.png) — Disks info.
-- [evidence/HYPER-V.png/](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/HYPER-V.png) — Hyper-V (Virtualisation) info.
-- ![OS information](evidence/OS.png) — OS, CPU and RAM memory info.
-- [evidence/OS.png/](https://github.com/Tashyouu/OSA/blob/2cfda98aeb53a8aa178b651e065b84a25c0769f4/labs/lab00-inventory/evidence/OS.png) — OS info that is shown by using 'overview' command.
+- [evidence/DISKS.png](evidence/DISKS.png) — Disks info.
+- [evidence/HYPER-V.png](evidence/HYPER-V.png) — Hyper-V (Virtualisation) info.
+- [evidence/OS_CPU_MEMORY.png](evidence/OS%20CPU%20MEMORY.png) — OS, CPU and RAM memory info.
+- [evidence/OS.png](evidence/OS.png) — OS info that is shown by using the overview command.
