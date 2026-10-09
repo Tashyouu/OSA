@@ -7,19 +7,19 @@ Date: 08.10.2026
 
 ## What I did
 I used Windows PowerShell to collect information about my personal laptop, including the operating system, hardware specifications, processor, memory, and storage. Here are the commands I used: <br/>
-Overview - Get-ComputerInfo <br/>
-Memory - systeminfo <br/>
-Disks - Get-Volume <br/>
-OS - systeminfo <br/>
-Virtualisation - systeminfo (on the bottom of the output) Hyper-V Requirements
+Overview - ```Get-ComputerInfo``` <br/>
+Memory - ```systeminfo``` <br/>
+Disks - ```Get-Volume``` <br/>
+OS - ```systeminfo``` <br/>
+Virtualisation - ```systeminfo``` (on the bottom of the output) Hyper-V Requirements
 
 
-Get-ComputerInfo<br/>
+```Get-ComputerInfo```<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/08721decc637e2c289d96d18398b29c35b1e96e7/labs/lab00-inventory/evidence/os.png) <br/>
-systeminfo<br/>
+```systeminfo```<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/17473b0268aa7579471046ac487c59022b10f699/labs/lab00-inventory/evidence/os-cpu-memory.png) <br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/b11fcae6b90bea13584dbca677a9584827f4dc97/labs/lab00-inventory/evidence/hyper-v.png) <br/>
-Get-Volume<br/>
+```Get-Volume```<br/>
 ![image alt](https://github.com/Tashyouu/OSA/blob/17473b0268aa7579471046ac487c59022b10f699/labs/lab00-inventory/evidence/disks.png) <br/>
 
 
