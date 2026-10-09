@@ -3,7 +3,7 @@
 **Student: Tamerlan Shakenov**
 **Group: 6**
 **Host machine:  HP Victus 16-e0XXX (Windows 11, x64)**
-**Hypervisor:** Oracle VirtualBox (planned)**
+**Hypervisor: Oracle VirtualBox (planned)**
 **Guest operating systems: Ubuntu Linux (planned)**
 
 ## Labs
